@@ -1,0 +1,2 @@
+# Paste your Photon AppId on this single line
+YOUR_PHOTON_APPID_HERE

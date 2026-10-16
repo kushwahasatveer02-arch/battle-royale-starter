@@ -1,0 +1,3 @@
+# Put a secret string here for development admin access (dev only)
+# Example: mysecretadmin123
+dev‑admin‑placeholder
